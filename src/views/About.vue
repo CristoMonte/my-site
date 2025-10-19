@@ -331,7 +331,7 @@ import { useI18n } from 'vue-i18n'
 const { t, tm } = useI18n()
 
 const placeholderImage = computed(() => {
-  return new URL('./placeholder.jpeg', import.meta.url).href
+  return new URL('../../public/images/placeholder.jpeg', import.meta.url).href
 })
 </script>
 
@@ -362,7 +362,7 @@ const placeholderImage = computed(() => {
   left: 0;
   right: 0;
   bottom: 0;
-  background-image: url('./placeholder.jpeg');
+  background-image: url('../../public/images/placeholder.jpeg');
   background-size: cover;
   background-position: center;
 }

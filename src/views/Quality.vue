@@ -15,7 +15,7 @@
       <div class="container">
         <div class="quality-diagram">
           <div class="quality-diagram-image">
-            <img src="./placeholder.jpeg" alt="Quality Diagram" style="width: 100%; height: 100%; object-fit: cover;">
+            <img src="../../public/images/placeholder.jpeg" alt="Quality Diagram" style="width: 100%; height: 100%; object-fit: cover;">
           </div>
           
           <!-- Labels -->
@@ -152,7 +152,7 @@ const activeTestimonial = ref(2)
   left: 0;
   right: 0;
   bottom: 0;
-  background-image: url('./placeholder.jpeg');
+  background-image: url('../../public/images/placeholder.jpeg');
   background-size: cover;
   background-position: center;
 }
@@ -336,7 +336,7 @@ const activeTestimonial = ref(2)
   left: 0;
   right: 0;
   bottom: 0;
-  background-image: url('./placeholder.jpeg');
+  background-image: url('../../public/images/placeholder.jpeg');
   background-size: cover;
   background-position: center;
 }

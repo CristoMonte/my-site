@@ -2,7 +2,7 @@
   <header class="header">
     <div class="container">
       <div class="logo">
-        <img src="./placeholder.jpeg" alt="SIGMA" />
+        <img src="" alt="SIGMA" />
       </div>
       
       <nav class="nav">

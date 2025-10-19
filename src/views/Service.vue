@@ -362,7 +362,7 @@ const submitForm = () => {
   left: 0;
   right: 0;
   bottom: 0;
-  background-image: url('./placeholder.jpeg');
+  background-image: url('../../public/images/placeholder.jpeg');
   background-size: cover;
   background-position: center;
 }

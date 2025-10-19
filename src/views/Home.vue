@@ -295,7 +295,7 @@ const openFaq = ref(null)
 
 const placeholderImage = computed(() => {
   // Import from views folder
-  return new URL('./placeholder.jpeg', import.meta.url).href
+  return new URL('../../public/images/placeholder.jpeg', import.meta.url).href
 })
 
 const toggleFaq = (index) => {
@@ -330,7 +330,7 @@ const toggleFaq = (index) => {
   left: 0;
   right: 0;
   bottom: 0;
-  background-image: url('./placeholder.jpeg');
+  background-image: url('../../public/images/placeholder.jpeg');
   background-size: cover;
   background-position: center;
 }
