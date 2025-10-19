@@ -138,8 +138,8 @@ const toggleLanguage = () => {
 }
 
 @media (max-width: 768px) {
-  .nav {
-    display: none;
+  .container {
+    flex-direction: column;
   }
 }
 </style>
