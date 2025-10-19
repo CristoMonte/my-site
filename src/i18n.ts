@@ -308,33 +308,33 @@ const messages = {
           address: 'Room 1305A, Eastern Centre, 1065 Kings Road Quarry Bay Hong Kong',
           contact: 'Contact person: Becky',
           tel: 'Tel: +852 2904 2977',
-          email: 'E-mail: HK@sigma-ic.com'
+          email: 'E-mail'
         },
         shenzhen: {
           title: 'SHENZHEN, CHINA',
           address: 'Room A, 1/F, Ben Yuan Building, No.1601-5 Shen Nan Road, Shenzhen, China',
           contact: 'Contact person: +86 755-3333-1359',
-          email: 'E-mail: SFO@sigma-ic.com'
+          email: 'E-mail'
         },
         suzhou: {
           title: 'SUZHOU, CHINA',
           address: 'Room 1371, Building B, Suzhou Garden Suzhou Industrial Park, Suzhou City, Jiangsu Province, 215000, China',
           contact: 'Contact person: Cherry',
           tel: 'Tel: +86 512-6564-8056',
-          email: 'E-mail: SFO@sigma-ic.com'
+          email: 'E-mail'
         },
         singapore: {
           title: 'SINGAPORE',
           address: '18 HOWARD ROAD, #10-01 NOVELTY BIZCENTRE, SINGAPORE 369585',
           contact: 'Contact Person: Vera',
           tel: 'Tel: +65 6909 0376',
-          email: 'E-mail: SFO@sigma-ic.com'
+          email: 'E-mail'
         },
         usa: {
           title: 'USA',
           address: '3428, Saranade, 1806，USA',
           contact: 'Contact：Clark',
-          email: 'E-mail: USA@sigma-ic.com'
+          email: 'E-mail'
         }
       },
       form: {
@@ -658,33 +658,33 @@ const messages = {
           address: '香港鲗鱼涌英皇道1065号东达中心1305A室',
           contact: '联系人：Becky',
           tel: '电话：+852 2904 2977',
-          email: '邮箱：HK@sigma-ic.com'
+          email: '邮箱'
         },
         shenzhen: {
           title: '中国深圳',
           address: '中国深圳市深南路1601-5号本源大厦1楼A室',
           contact: '联系人：+86 755-3333-1359',
-          email: '邮箱：SFO@sigma-ic.com'
+          email: '邮箱'
         },
         suzhou: {
           title: '中国苏州',
           address: '中国江苏省苏州市苏州工业园区苏州花园B栋1371室，邮编：215000',
           contact: '联系人：Cherry',
           tel: '电话：+86 512-6564-8056',
-          email: '邮箱：SFO@sigma-ic.com'
+          email: '邮箱'
         },
         singapore: {
           title: '新加坡',
           address: '新加坡霍华德路18号#10-01新奇商业中心，邮编369585',
           contact: '联系人：Vera',
           tel: '电话：+65 6909 0376',
-          email: '邮箱：SFO@sigma-ic.com'
+          email: '邮箱'
         },
         usa: {
           title: '美国',
           address: '美国萨拉纳德3428号，1806',
           contact: '联系人：Clark',
-          email: '邮箱：USA@sigma-ic.com'
+          email: '邮箱'
         }
       },
       form: {

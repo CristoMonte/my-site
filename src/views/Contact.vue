@@ -31,7 +31,7 @@
           <p>{{ t('contact.locations.hongkong.address') }}</p>
           <p>{{ t('contact.locations.hongkong.contact') }}</p>
           <p>{{ t('contact.locations.hongkong.tel') }}</p>
-          <p>{{ t('contact.locations.hongkong.email') }}</p>
+          <p>{{ t('contact.locations.hongkong.email') }}: example@example.com</p>
         </div>
         <div class="location-image right">
           <img :src="placeholderImage" alt="Hongkong">
@@ -47,7 +47,7 @@
           <h3>{{ t('contact.locations.shenzhen.title') }}</h3>
           <p>{{ t('contact.locations.shenzhen.address') }}</p>
           <p>{{ t('contact.locations.shenzhen.contact') }}</p>
-          <p>{{ t('contact.locations.shenzhen.email') }}</p>
+          <p>{{ t('contact.locations.shenzhen.email') }}: example@example.com</p>
         </div>
       </div>
 
@@ -58,7 +58,7 @@
           <p>{{ t('contact.locations.suzhou.address') }}</p>
           <p>{{ t('contact.locations.suzhou.contact') }}</p>
           <p>{{ t('contact.locations.suzhou.tel') }}</p>
-          <p>{{ t('contact.locations.suzhou.email') }}</p>
+          <p>{{ t('contact.locations.suzhou.email') }}: example@example.com</p>
         </div>
         <div class="location-image right">
           <img :src="placeholderImage" alt="Suzhou">
@@ -75,7 +75,7 @@
           <p>{{ t('contact.locations.singapore.address') }}</p>
           <p>{{ t('contact.locations.singapore.contact') }}</p>
           <p>{{ t('contact.locations.singapore.tel') }}</p>
-          <p>{{ t('contact.locations.singapore.email') }}</p>
+          <p>{{ t('contact.locations.singapore.email') }}: example@example.com</p>
         </div>
       </div>
 
@@ -85,7 +85,7 @@
           <h3>{{ t('contact.locations.usa.title') }}</h3>
           <p>{{ t('contact.locations.usa.address') }}</p>
           <p>{{ t('contact.locations.usa.contact') }}</p>
-          <p>{{ t('contact.locations.usa.email') }}</p>
+          <p>{{ t('contact.locations.usa.email') }}: example@example.com</p>
         </div>
         <div class="location-image right">
           <img :src="placeholderImage" alt="USA">
