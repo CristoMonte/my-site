@@ -1,5 +1,5 @@
 <template>
-  <div id="app">
+  <div class="main-page">
     <Header />
     <router-view />
     <Footer />
@@ -23,7 +23,7 @@ body {
   color: #333;
 }
 
-#app {
+.main-page {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
